@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/iqbalhossain038](https://www.linkedin.com/in/iqbalhossain038)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
 
 - 📫 How to reach me **freelancingsiteiqbal@gmail.com**
 
